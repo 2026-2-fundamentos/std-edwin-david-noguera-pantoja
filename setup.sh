@@ -1,3 +1,4 @@
+# para sh usamos source setup.sh
 #!/bin/bash
 
 pip3 install --upgrade pip
